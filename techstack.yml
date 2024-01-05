@@ -1,7 +1,8 @@
 repo_name: TawandaMavondo/ChatGPT-Flutter-AIChatBot
 report_id: 06442c9532bf61992ac486ab7f084ea6
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T20:07:16+00:00'
+timestamp: '2024-01-05T08:26:49+00:00'
 requested_by: iampawan
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -74,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -84,6 +92,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -96,6 +105,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -107,6 +117,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/linux/CMakeLists.txt
   detection_source: linux/CMakeLists.txt
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -118,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -127,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -137,6 +150,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -148,6 +162,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -159,6 +174,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/ios/Podfile.lock
   detection_source: ios/Podfile.lock
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -168,6 +184,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/web/index.html
   detection_source: web/index.html
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -179,6 +196,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/linux/CMakeLists.txt
   detection_source: linux/CMakeLists.txt
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -191,7 +209,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/pubspec.lock
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -204,7 +222,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/pubspec.lock
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
@@ -216,6 +234,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/TawandaMavondo/ChatGPT-Flutter-AIChatBot/blob/main/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: iampawan
   last_updated_on: 2023-01-10 12:45:44.000000000 Z
